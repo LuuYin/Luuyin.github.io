@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i> l.yin@tue.nl</i>
+subtitle: <i> lu.yin@abdn.ac.uk</i> ;<i> l.yin@tue.nl</i>
 
 profile:
   align: right
@@ -17,12 +17,25 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Greetings! I'm Lu, now serving as a Postdoctoral fellow at Eindhoven University of Technology (TU/e), located in the beautiful Netherlands. Before that, I was a researcher interning at <font color=009f06>Google's NYC office</font>. 
+
+Greetings! I'm Lu, an Assistant Professor in AI at the [University of Aberdeen](https://en.wikipedia.org/wiki/University_of_Aberdeen) and a long-term visiting researcher at [Eindhoven University of Technology (TU/e)](https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology).
+
+I served as a Postdoctoral Fellow and received my Ph.D. degree from [TU/e](https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology)., under the supervision of [Prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Dr. Vlado Menkovski](https://vlamen.github.io/). I obtained my Master's and Bachelor's degrees from the [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology).  I was research scientist/intern at <font color="009f06">Google's NYC office</font>.
 
 
-I hold a Ph.D. degree in the data mining group in TU/e, where I was fortunate to be supervised by the esteemed [Prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Dr. Vlado Menkovski ](https://vlamen.github.io/). I obtained my master's and bachelor's degrees at the [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology). 
+My research interests include:
+- <font color="009f06">#AI Efficiency</font>
+- <font color="009f06">#Model Sparsity</font>
+- <font color="009f06">#Large Language Models</font>
+- <font color="009f06">#AI for Science</font>
 
-My research interests include <font color=009f06>#AI Efficiency</font>, <font color=009f06>#Model Sparsity</font>, <font color=009f06>#Large Language Models</font>, <font color=009f06>#AI for Science</font>. Feel free to reach out if you'd like to discuss anything with me :)
+Feel free to reach out if you'd like to discuss anything with me :)
+
+
+
+
+
+<!-- My research interests include <font color=009f06>#AI Efficiency</font>, <font color=009f06>#Model Sparsity</font>, <font color=009f06>#Large Language Models</font>, <font color=009f06>#AI for Science</font>. Feel free to reach out if you'd like to discuss anything with me :) -->
 
 
 
