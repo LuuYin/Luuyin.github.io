@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings! I'm Lu, an Assistant Professor in AI at the [University of Aberdeen](https://en.wikipedia.org/wiki/University_of_Aberdeen) and a long-term visiting researcher at [Eindhoven University of Technology (TU/e)](https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology).
 
-I served as a Postdoctoral Fellow and received my Ph.D. degree from [TU/e](https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology)., under the supervision of [Prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Dr. Vlado Menkovski](https://vlamen.github.io/). I obtained my Master's and Bachelor's degrees from the [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology).  I was research scientist/intern at <font color="009f06">Google's NYC office</font>.
+I served as a Postdoctoral Fellow and received my Ph.D. degree from [TU/e](https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology)., under the supervision of [Prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/), [Dr. Vlado Menkovski](https://vlamen.github.io/) and [Prof. Decebal Mocanu](https://www.uni.lu/fstm-en/people/decebal-constantin-mocanu/). I obtained my Master's and Bachelor's degrees from the [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology).  I was research scientist/intern at <font color="009f06">Google's NYC office</font>.
 
 
 My research interests include:
