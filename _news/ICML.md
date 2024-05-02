@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2024-05-01 15:59:00-0400
+inline: true
+---
+
+
+
+<font color=2698BA>[ICML 2023*3]</font> &#128293; We got THREE paper accepted at ICML 2024: (1) LLM pruning [OWL](https://arxiv.org/pdf/2310.05175.pdf) (2) understanding the small magnitude in LLM [JunkDNA hypothesis](https://arxiv.org/pdf/2310.02277.pdf). (3) Bi-lever sparse training optimization. .
