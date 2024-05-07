@@ -5,5 +5,5 @@ inline: true
 ---
 
 
-<span style="color:#2698BA;">[CAPL 2024]  </span> Three papers got accpeted in [CAPL](https://cpal.cc/) at spotlight track
+<span style="color:#2698BA;">[CPAL 2024]  </span> Three papers got accpeted in [CPAL](https://cpal.cc/) at spotlight track
 
