@@ -95,18 +95,29 @@ nav_order: 2
 <ul>
   <li>
     <p>
-      <i><b><strong>2024&nbsp;</strong></b></i> <br>
+      <i><b><strong>2024&nbsp;</strong></b></i> Project: <i><b>Parameter-Efficient LLM Fine Tuning</b></i><br>
       Student: Pengxiang Li<br>
-      Second year Master from Dalian Jiaotong University  <br>
+      Second year Master from Dalian Ligong University  <br>
     </p>
   </li>
 
   <li>
     <p>
-      <i><b><strong>2024&nbsp;</strong></b></i> <br>
+      <i><b><strong>2024&nbsp;</strong></b></i> Project: <i><b>Urban Understanding using Deep Learning</b></i><br>
       Student: Zheyan Qu<br>
       Second year Master from Beijing University of Posts and Telecommunications  <br>
     </p>
   </li>
+
+
+
+  <li>
+    <p>
+      <i><b><strong>2024&nbsp;</strong></b></i> Project: <i><b>LLM MoE Merging/Pruning</b></i><br>
+      Student: Mingyu Cao<br>
+    </p>
+  </li>
+
+
 
 </ul>
