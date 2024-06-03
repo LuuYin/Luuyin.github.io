@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i> lu.yin@abdn.ac.uk</i> ;<i> l.yin@tue.nl</i>
+subtitle: <i> l.yin@surrey.ac.uk</i> ;<i> l.yin@tue.nl</i>
 
 profile:
   align: right
@@ -18,19 +18,19 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-Greetings! I'm Lu, an Assistant Professor in AI at the [University of Aberdeen](https://en.wikipedia.org/wiki/University_of_Aberdeen) and a long-term visiting researcher at [Eindhoven University of Technology (TU/e)](https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology).
+Greetings! I'm Lu, an Assistant Professor in the School of Computer Science and Electronic Engineering at the [University of Surrey](https://www.surrey.ac.uk/), and a long-term visiting researcher at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/).
 
-I served as a Postdoctoral Fellow and received my Ph.D. degree from [TU/e](https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology)., under the supervision of [Prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/), [Dr. Vlado Menkovski](https://vlamen.github.io/) , and my informal advisor [Prof. Decebal Mocanu](https://www.uni.lu/fstm-en/people/decebal-constantin-mocanu/). I obtained my Master's and Bachelor's degrees from the [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology).  I was research scientist/intern at <font color="009f06">Google's NYC office</font>.
+Previously, I was an Assistant Professor  at the [University of Aberdeen](https://www.abdn.ac.uk/). I also served as a Postdoctoral Fellow at [TU/e](https://www.tue.nl/en/) and worked as a research scientist/intern at <font color="009f06">Google's NYC office</font>.
 
 
 My research interests include:
 - <font color="009f06">#AI Efficiency</font>
-- <font color="009f06">#Model Sparsity</font>
-- <font color="009f06">#Large Language Models</font>
 - <font color="009f06">#AI for Science</font>
+- <font color="009f06">#Large Language Models</font>
+
+
 
 Feel free to reach out if you'd like to discuss anything with me :)
-
 
 
 
