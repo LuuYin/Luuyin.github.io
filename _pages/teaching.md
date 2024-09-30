@@ -20,10 +20,51 @@ nav_order: 2
 
 - **2024**, *Data Mining and Deep Learning (CS552J) at University of Aberdeen*,
 
+- **2024**, *Practical Business Analytics (Com3018), University of Surrey*,
+
 <br>
 
 <h3>Supervision</h3>
 <br>
+
+<h5><i><b>Ph.D Projects</b></i></h5>
+
+<ul>
+  <li>
+    <p>
+      <i><b><strong>2024&nbsp;</strong></b></i> Project: <i><b>Model Compression</b></i><br>
+      Student: Andy Li<br>
+      Co-supervised with Prof. Georgios Leontidis <br>
+    </p>
+  </li>
+</ul>
+
+
+<ul>
+  <li>
+    <p>
+      <i><b><strong>2024&nbsp;</strong></b></i> Project: <i><b>Robustness of Large Foundation Models</b></i><br>
+      Student: Kappiyath, Adarsh<br>
+      Co-supervised with Prof. Xiatian Zhu <br>
+    </p>
+  </li>
+</ul>
+
+
+<ul>
+  <li>
+    <p>
+      <i><b><strong>2024&nbsp;</strong></b></i> Project: <i><b>Resource Efficient 3D World Understanding</b></i><br>
+      Student:  Thengane, Vishal<br>
+      Co-supervised with Prof. Xiatian Zhu <br>
+    </p>
+  </li>
+</ul>
+
+
+
+
+
 <h5><i><b>MSc Projects</b></i></h5>
 
 <ul>
@@ -76,17 +117,7 @@ nav_order: 2
 
 
 
-<h5><i><b>Ph.D Projects</b></i></h5>
 
-<ul>
-  <li>
-    <p>
-      <i><b><strong>2024&nbsp;</strong></b></i> Project: <i><b>Model Compression</b></i><br>
-      Student: Andy Li<br>
-      Co-supervised with Prof. Georgios Leontidis <br>
-    </p>
-  </li>
-</ul>
 
 
 
