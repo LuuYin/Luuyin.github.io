@@ -18,9 +18,12 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-Greetings! I'm Lu, an Assistant Professor in the School of Computer Science and Electronic Engineering at the [University of Surrey](https://www.surrey.ac.uk/), and a long-term visiting researcher at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/).
+Greetings! I'm Lu, an Assistant Professor in the School of Computer Science and Electronic Engineering at the [University of Surrey](https://www.surrey.ac.uk/), and a long-term visiting researcher at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). I am fortunate to be a visiting member of the [Visual Informatics Group (VITA)](https://vita-group.github.io/) at UT Austin, led by [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang).
 
-Previously, I was an Assistant Professor  at the [University of Aberdeen](https://www.abdn.ac.uk/). I also served as a Postdoctoral Fellow at [TU/e](https://www.tue.nl/en/) and worked as a research scientist/intern at <font color="009f06">Google's NYC office</font>.
+
+Previously, I served as a Postdoctoral Fellow at [TU/e](https://www.tue.nl/en/) and worked as a research scientist intern at Google's New York City office.
+
+
 
 
 My research interests include:
